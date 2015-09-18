@@ -1,0 +1,1 @@
+Contenu initial de mon nouveau fichier
